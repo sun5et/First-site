@@ -5,6 +5,13 @@ body
 {
 	background-color: #e8e8e8;
 }
+
+#wrapper
+{
+	margin: 0 auto;
+	width: 1700px;
+	
+}
 	.header{
 		padding-top: 22px;
 		padding-left:12px;
