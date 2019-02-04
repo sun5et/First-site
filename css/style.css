@@ -12,11 +12,9 @@ body
 	width: 1700px;
 	
 }
-	.header{
-		padding-top: 22px;
-		padding-left:12px;
-		padding-right:12px;
-		padding-bottom:22px;
+	.header
+	{
+		padding:22px 12px 22px 12px;
 		height: 80px;
 		border: 1px solid #d8d8d8;
 		margin: 11px 13% 0px 13%;
@@ -25,14 +23,12 @@ body
 	}
 	.h1
 	{
-
-	
 		padding-left:40px;
 		display: inline-block;
 	}
 	.h2
 	{
-		padding-left:60%;
+		padding-left:55%;
 		display: inline-block;
 	}
 	p
@@ -47,21 +43,21 @@ body
 	h2
 	{
 		display: inline-block;
-		font-family: Lobster;
+		font-family: Lobster, sans-serif;
 		font-size:25px;
 		color:#cd2027;
 	}
 	h1
 	{
 		display: inline-block;
-		font-family: Lobster;
+		font-family: Lobster, sans-serif;
 		font-size:32px;
 		color:#3c3c3c;
 		margin-bottom:40px;
 	}
 	span
 	{	
-		font-family: Lobster;
+		font-family: Lobster, sans-serif;
 		font-size:16px;
 		
 	}
@@ -71,13 +67,10 @@ body
 		padding-top: 0px;
 		padding-left:12px;
 		padding-right:12px;
-		
 		height: 386px;
 		border: 1px solid #d8d8d8;
-		
 		margin: 5px 13% 0px 13%;
 		background-color:#fcfcfc;
-
 	}
 	.text
 	{
@@ -88,8 +81,6 @@ body
 		padding-top: 56px;
 		padding-left: 40px;
 		padding-right:20px;
-		
-		
 	}
 	.photo
 	{
@@ -100,8 +91,6 @@ body
 		height: 384px;
 		padding-top: 10px;
 		padding-left: 55px;
-		
-
 	}
 	.btn-1
 	{
@@ -143,17 +132,15 @@ body
 	}
 	.main-block-2
 	{
-		
 		padding-left:12px;
 		padding-right:12px;
-		
 		height: 228px;
 		border: 1px solid #d8d8d8;
 		margin: 5px 13% 0px 13%;
 		background-color: #fff;
 	}
-.box-1
-{
+	.box-1
+	{
 	display: inline-block;
 		
 		width: 33.1%;
@@ -162,46 +149,40 @@ body
 		padding-left: 65px;
 		padding-right:20px;
 		background-color: #fff;
-}
-.box-2
-{
-display: inline-block;
-		
+	}
+	.box-2
+	{
+		display: inline-block;
 		width: 33.1%;
 		height: 225px;
 		padding-top: 3%;
 		padding-left: 65px;
 		padding-right:20px;
 		background-color: #fff;
-}
-.box-3
-{
-	display: inline-block;
-		
+	}
+	.box-3
+	{
+		display: inline-block;
 		width: 33.1%;
 		height: 225px;
 		padding-top: 3%;
 		padding-left: 65px;
 		padding-right:20px;
 		background-color: #fff;
-}
-.photo-box-1, .text-box-1, .photo-box-2, .text-box-2, .photo-box-3, .text-box-3
-{
+	}
+	.photo-box-1, .text-box-1, .photo-box-2, .text-box-2, .photo-box-3, .text-box-3
+	{
 	color:black;
 	vertical-align: top;
 	margin-left:10px;
 	
-}
-.main-block-3
+	}
+	.main-block-3
 	{ 
-
-		padding-top: 0px;
 		padding-left:12px;
 		padding-right:12px;
-		
 		height: 240px;
 		border: 1px solid #d8d8d8;
-		
 		margin: 5px 13% 0px 13%;
 		background-color:#fff;
 
@@ -233,20 +214,15 @@ display: inline-block;
 		padding-top: 0px;
 		padding-left:12px;
 		padding-right:12px;
-		
 		height: 290px;
 		border: 1px solid #d8d8d8;
-		
 		margin: 5px 13% 0px 13%;
 		background-color:#fff;
-
-
 	}
 	.screen-1
 	{
-
 		display: inline-block;
-vertical-align: bottom;
+		vertical-align: bottom;
 		background-color:#fff;
 		width:298px;
 		height: 288px;
@@ -255,7 +231,7 @@ vertical-align: bottom;
 		padding-right:20px;
 	}
 	.screen-2
-	{ vertical-align: bottom;
+	{ 	vertical-align: bottom;
 		display: inline-block;
 		background-color:#fff;
 		width:298px;
@@ -265,7 +241,7 @@ vertical-align: bottom;
 		padding-right:20px;
 	}
 	.screen-3
-	{ vertical-align: bottom;
+	{	 vertical-align: bottom;
 		display: inline-block;
 		background-color:#fff;
 		width:298px;
@@ -275,7 +251,7 @@ vertical-align: bottom;
 		padding-right:20px;
 	}
 	.screen-4
-	{ vertical-align: bottom;
+	{ 	vertical-align: bottom;
 		display: inline-block;
 		background-color:#fff;
 		width:298px;
@@ -291,14 +267,11 @@ vertical-align: bottom;
 	.reviews
 	{
 		position: relative;
-
 		padding-top: 0px;
 		padding-left:12px;
 		padding-right:12px;
-		
 		height: 335px;
 		border: 1px solid #d8d8d8;
-		
 		margin: 5px 13% 0px 13%;
 		background-color:#fff;
 
@@ -306,7 +279,6 @@ vertical-align: bottom;
 	.speach
 	{
 		display: inline-block;
-
 		background-color:#fff;
 		width: 100%;
 		height: 235px;
@@ -336,20 +308,16 @@ vertical-align: bottom;
 	
 	.imgblock p
 	{
-		 
-    
-   
     position: absolute;
     right: 0;
     bottom: 65px;
-   text-align: center;
+   	text-align: center;
     padding:35px 35px 0px 35px;
     font-style: italic;
     font-size:18px;
 	}
 	.btn-11
 	{
-		
 		margin-right:22px;
 		font-size: 18px;
 		font-family: Lobster;
@@ -360,7 +328,6 @@ vertical-align: bottom;
 		height: 40px;
 		width: 170px;
 		border-radius: 25px;
-		
 	}
 	.btn-22
 	{
@@ -381,10 +348,7 @@ vertical-align: bottom;
 		padding-top: 0px;
 		padding-left:12px;
 		padding-right:12px;
-		
 		height: 195px;
-		
-		
 		margin: 0px 13% 0px 13%;
 		
 	}
@@ -392,7 +356,6 @@ vertical-align: bottom;
 	{
 		vertical-align: bottom;
 		display: inline-block;
-		
 		width:430px;
 		height: 193px;
 		padding-top: 25px;
@@ -403,7 +366,6 @@ vertical-align: bottom;
 	{
 		vertical-align: bottom;
 		display: inline-block;
-		
 		width:230px;
 		height: 193px;
 		padding-top: 25px;
@@ -414,7 +376,6 @@ vertical-align: bottom;
 	{
 		vertical-align: bottom;
 		display: inline-block;
-		
 		width:312px;
 		height: 193px;
 		padding-top: 25px;
@@ -425,7 +386,6 @@ vertical-align: bottom;
 	{
 		vertical-align: bottom;
 		display: inline-block;
-		
 		width:220px;
 		height: 193px;
 		padding-top: 25px;
@@ -437,13 +397,9 @@ vertical-align: bottom;
 		padding-top: 0px;
 		padding-left:12px;
 		padding-right:12px;
-		
 		height: 55px;
 		margin: -1px 13% 12px 13%;
-		
-		
 		background-color:#222;
-
 	}
 	.contacts, .payment, .get-in-touch, .design, .logo
 	{
